@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(129,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(271,106): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(291,115): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(312,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(323,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(323,86): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(344,74): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(358,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(378,38): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(398,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(408,35): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(408,86): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(429,74): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(440,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\James\source\repos\Astar\AStar\Source.cpp(443,22): warning C4018: '<': signed/unsigned mismatch
+  AStar.vcxproj -> C:\Users\James\source\repos\Astar\Debug\AStar.exe
